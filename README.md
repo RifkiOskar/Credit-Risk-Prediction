@@ -25,3 +25,6 @@ Proses yang kami lakukan secara garis besar adalah:
 
 3. Modeling
 Menggunakan AdaBoost
+
+## **Result**
+![Teks Alternatif](https://github.com/RifkiOskar/Credit-Risk-Prediction/blob/master/Modelling.png)
